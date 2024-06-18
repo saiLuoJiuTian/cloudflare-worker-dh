@@ -38,11 +38,11 @@ var bigg = [
             }, {
                 name: "云图库",
                 icon: "icon-tuku",
-                url: "https://sink.10999901.xyz/"
+                url: "https://img.10999901.xyz/"
             },{
                 name: "图库OA",
                 icon: "icon-oabangong-copy",
-                url: "https://sink.10999901.xyz/admin"
+                url: "https://img.10999901.xyz/admin"
             },
 
         ]
