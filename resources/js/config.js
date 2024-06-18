@@ -76,7 +76,7 @@ var bigg = [
 
     }, {
         name: "邮箱",
-        icon: "#icon-youxiang",
+        icon: "icon-youxiang",
         bigFly: [
             {
                 name: "Gmail",
