@@ -7,7 +7,7 @@ $(function () {
                 var bigKuang = `
                                 <ul class="mylist row" id="lllllllllll`+ i + `">
                                 <li class="title"  ><svg class="icon" aria-hidden="true">
-                                        <use xlink:href=#"`+ bigg[i].icon + `"></use>
+                                        <use xlink:href="#`+ bigg[i].icon + `"></use>
                                     </svg>`+ bigg[i].name + `</li>
                                 
                                 </ul>
