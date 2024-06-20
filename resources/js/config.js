@@ -46,7 +46,7 @@ var bigg = [
             },
             {
                 name: "蓝奏云",
-                icon: "icon-logo",
+                icon: "icon-lanzouyun",
                 url: "https://up.woozooo.com/"
             },
 
