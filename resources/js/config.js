@@ -44,6 +44,11 @@ var bigg = [
                 icon: "icon-oabangong-copy",
                 url: "https://img.10999901.xyz/admin"
             },
+            {
+                name: "蓝奏云",
+                icon: "icon-logo",
+                url: "https://up.woozooo.com/"
+            },
 
         ]
     }, {
