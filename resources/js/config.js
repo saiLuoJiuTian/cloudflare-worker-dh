@@ -34,7 +34,7 @@ var bigg = [
             }, {
                 name: "短链系统",
                 icon: "icon-shandian",
-                url: "https://sink.10999901.xyz/"
+                url: "https://sink.011211.xyz/"
             }, {
                 name: "云图库",
                 icon: "icon-tuku",
