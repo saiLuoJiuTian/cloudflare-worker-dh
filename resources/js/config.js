@@ -76,6 +76,10 @@ var bigg = [
                 name: "虎牙直播",
                 icon: "icon-huyazhibo",
                 url: "https://www.huya.com/g/lol"
+            },{
+                name: "抖音",
+                icon: "icon-douyin",
+                url: "https://www.douyin.com/"
             },
         ]
 
