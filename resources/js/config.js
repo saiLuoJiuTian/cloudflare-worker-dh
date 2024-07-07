@@ -27,10 +27,6 @@ var bigg = [
                 name: "博客",
                 icon: "icon-boke",
                 url: "https://b.10999901.xyz/"
-            },{
-                name: "博客OA",
-                icon: "icon-oabangong-copy",
-                url: "https://b.10999901.xyz/admin"
             }, {
                 name: "短链系统",
                 icon: "icon-shandian",
@@ -40,15 +36,19 @@ var bigg = [
                 icon: "icon-tuku",
                 url: "https://img.10999901.xyz/"
             },{
+                name: "BingAI",
+                icon: "icon-AI",
+                url: "https://ai.011211.xyz"
+            },{
                 name: "图库OA",
                 icon: "icon-oabangong-copy",
                 url: "https://img.10999901.xyz/admin"
-            },
-            {
-                name: "蓝奏云",
-                icon: "icon-lanzouyun",
-                url: "https://up.woozooo.com/"
-            },
+            },{
+                name: "博客OA",
+                icon: "icon-oabangong-copy",
+                url: "https://b.10999901.xyz/admin"
+            }
+            
 
         ]
     }, {
@@ -80,10 +80,48 @@ var bigg = [
                 name: "抖音",
                 icon: "icon-douyin",
                 url: "https://www.douyin.com/"
+            },{
+                name: "音乐磁场",
+                icon: "icon-hifini",
+                url: "https://www.hifini.com/"
             },
         ]
 
-    }, {
+    },
+
+    {
+        name: "网盘",
+        icon: "icon-wangpan",
+        bigFly: [
+            {
+                name: "蓝奏云",
+                icon: "icon-lanzouyun",
+                url: "https://up.woozooo.com/"
+            },{
+                name: "阿里云盘",
+                icon: "icon-channel-ali_netdisk_web",
+                url: "https://www.alipan.com/"
+            },{
+                name: "迅雷云盘",
+                icon: "icon-xunlei",
+                url: "https://pan.xunlei.com/"
+            },{
+                name: "OneDrive",
+                icon: "icon-onedrive",
+                url: "https://onedrive.live.com/"
+            },{
+                name: "夸克网盘",
+                icon: "icon-kuakewangpan",
+                url: "https://pan.quark.cn/"
+            },{
+                name: "百度网盘",
+                icon: "icon-baiduwangpan",
+                url: "https://onedrive.live.com/"
+            },
+
+        ]
+    },
+     {
         name: "邮箱",
         icon: "icon-youxiang",
         bigFly: [
@@ -117,14 +155,9 @@ var bigg = [
                 url: "https://tools.miku.ac/"
 
             },{
-                name: "域名",
+                name: "Godaddy域名",
                 icon: "icon-godaddy",
                 url: "https://www.godaddy.com/"
-
-            },{
-                name: "Vercel",
-                icon: "icon-vercel",
-                url: "https://vercel.com/"
 
             },
           
@@ -229,6 +262,11 @@ var bigg = [
                 name: "C. flare",
                 icon: "icon-cloudflare-1",
                 url: "https://dash.cloudflare.com/"
+
+            },{
+                name: "Vercel",
+                icon: "icon-vercel",
+                url: "https://vercel.com/"
 
             },
             {
