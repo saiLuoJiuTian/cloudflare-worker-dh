@@ -116,7 +116,7 @@ var bigg = [
             },{
                 name: "百度网盘",
                 icon: "icon-baiduwangpan",
-                url: "https://onedrive.live.com/"
+                url: "https://pan.baidu.com/"
             },
 
         ]
