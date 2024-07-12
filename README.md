@@ -5,7 +5,7 @@ fork项目，创建cf-pages连接仓库
 
 config.js更改页面上的网站
 
-图标基于阿里iconfont
+图标基于阿里[iconfont](https://iconfont.cn) 
 
 由于cf-pages的域名可能被墙建议绑定未被墙的域名
 
