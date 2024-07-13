@@ -40,6 +40,10 @@ var bigg = [
                 icon: "icon-AI",
                 url: "https://ai.011211.xyz"
             },{
+                name: "Game",
+                icon: "icon-ikun1",
+                url: "https://cxk.011211.xyz"
+            },{
                 name: "图库OA",
                 icon: "icon-oabangong-copy",
                 url: "https://img.10999901.xyz/admin"
